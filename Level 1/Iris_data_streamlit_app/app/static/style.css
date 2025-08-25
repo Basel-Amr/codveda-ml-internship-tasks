@@ -1,0 +1,11 @@
+/* Center title and make it bold */
+h1 {
+    text-align: center;
+    color: #FF4B4B;
+    font-weight: bold;
+}
+
+/* Customize sidebar */
+.css-1d391kg { 
+    background-color: #f0f2f6;
+}
