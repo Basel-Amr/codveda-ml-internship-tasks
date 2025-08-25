@@ -17,7 +17,7 @@ A beautiful, interactive web application for predicting the species of Iris flow
 ---
 # 📸 Screenshots & Demo
 ### **1. Home Page**
-![Home Page](app\assets\home_page.png)
+![Home Page](Level_1\Iris_data_streamlit_app\app\assets\home_page.png)
 
 ### **2. Predict Page**
 ![Predict Page](app\assets\Predict_page.png)
